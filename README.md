@@ -98,7 +98,7 @@
 
 - Go to *Clusters > Connect > Connect your application*
 
-- Copy the connection string (mongodb+srv://rajeshpawar012_db_user:sS6yWqsKlL0fUjf3@rajesh-mongo-cluster.mddajai.mongodb.net/?retryWrites=true&w=majority&appName=rajesh-mongo-cluster)
+- Copy the connection string (mongodb+srv://rajeshpawar012_db_user:************@rajesh-mongo-cluster.mddajai.mongodb.net/?retryWrites=true&w=majority&appName=rajesh-mongo-cluster)
 
 <img width="915" height="451" alt="Screenshot 2025-09-30 231449" src="https://github.com/user-attachments/assets/085029ec-2b35-4cd8-9da9-b8cec5a21271" />
 
