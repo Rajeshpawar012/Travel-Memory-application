@@ -161,9 +161,9 @@ PORT=3001
 
 #### backend server started
 
-###Frontend Configuration
+### Frontend Configuration
 
-#### Open New Tab and connect to frontend instance and navigate to frontend directory
+#### Open a New Tab and connect to the frontend instance and navigate to the frontend directory
 
 - ssh -i .\herokey2822.pem ec2-user@ec2-18-175-210-159.eu-west-2.compute.amazonaws.com
 
@@ -173,7 +173,7 @@ PORT=3001
 
 ### install Dependancy
 
-run Sudo npm install
+Run sudo npm install
 
 - sudo npm install
 
@@ -262,7 +262,7 @@ Run sudo npm start
 
 . 	Go to EC2 → Target Groups → Create Target Group.
 
-. 	Choose Instances as target type.
+. 	Choose Instances as the target type.
 
 . 	Create two groups:
 
@@ -307,7 +307,7 @@ Run sudo npm start
 • 	If path is  → forward to 
 
 
-## a step-by-step guide to purchase a domain from Namecheap:
+## A step-by-step guide to purchasing a domain from Namecheap:
 
 ### How to Purchase a Domain from Namecheap
 
@@ -387,10 +387,9 @@ Go to https://www.namecheap.com
 <img width="956" height="427" alt="Screenshot 2025-10-01 134714" src="https://github.com/user-attachments/assets/1aca3b1c-e5ad-4646-b076-9383fe110ce3" />
 
 
+###  Setting up your domain with Cloudflare after purchasing it from a registrar like Namecheap:
 
-Here’s a complete guide to setting up your domain with Cloudflare after purchasing it from a registrar like Namecheap:
-
-# Cloudflare Setup Steps After Buying a Domain
+## Cloudflare Setup Steps After Buying a Domain
 
 ## Create a Cloudflare Account
 
@@ -454,7 +453,7 @@ Here’s a complete guide to setting up your domain with Cloudflare after purcha
 
 • 	Set SSL mode to Full or Flexible
 
-• 	Go to Speed → Optimization
+• 	Go to Speed → Optimisation
 
 • 	Enable Auto Minify and Brotli Compression
 
