@@ -109,7 +109,7 @@ Create or update the .env file in the backend directory:
 
 PORT=3001
 
-MONGO_URI=mongodb+srv://rajeshpawar012_db_user:sS6yWqsKlL0fUjf3@rajesh-mongo-cluster.mddajai.mongodb.net/?retryWrites=true&w=majority&appName=rajesh-mongo-cluster
+MONGO_URI=mongodb+srv://rajeshpawar012_db_user:************@rajesh-mongo-cluster.mddajai.mongodb.net/?retryWrites=true&w=majority&appName=rajesh-mongo-cluster
 
 - sudo npm install mongodb
 
