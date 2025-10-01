@@ -462,6 +462,9 @@ Here’s a complete guide to setting up your domain with Cloudflare after purcha
 
 • 	Set caching level to Standard
 
+<img width="911" height="437" alt="Screenshot 2025-10-01 193437" src="https://github.com/user-attachments/assets/b78e0b43-861e-489c-b15c-2fa6078b44b5" />
+
+<img width="949" height="449" alt="Screenshot 2025-10-01 194910" src="https://github.com/user-attachments/assets/ff8e1934-c120-43a5-8849-3544fca4c125" />
 
 
 
